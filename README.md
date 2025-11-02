@@ -1,7 +1,7 @@
 # codaspy_2025_code
 HMAM (Harmonic Mean–Arithmetic Mean) Ratio and RUC Calculation
 
-This repository implements a complete data processing and evaluation pipeline for detecting cyberattacks using the Residual Under Curve (RUC) metric. The scripts prepare, transform, and evaluate time-series data collected from networked control systems or communication buses (e.g., CAN, DNP3, or SOME/IP).
+This repository implements a complete data processing and evaluation pipeline for detecting cyberattacks using the Residual Under Curve (RUC) metric.
 
 📂 Repository Structure
 ├── id_segregation.py
